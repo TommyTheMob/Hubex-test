@@ -1,0 +1,55 @@
+{
+  "employee": {
+    "name": "Иванов Иван Петрович",
+    "organization": "Компания",
+    "position": "Директор",
+    "photoUrl": "/employee.jpeg",
+    "cellPhone": "+7 (000) 000-00-00",
+    "phone": "+7 (000) 000-00-00",
+    "secondPhone": "+7 (000) 000-00-00",
+    "email": "employee@email.ru",
+    "website": "link.ru",
+    "address": "Москва, улица Арбат, 50",
+    "birthDate": "20.02.1975",
+    "grade": "Доктор наук",
+    "socials": {
+      "telegram": "telegram.org",
+      "whatsapp": "whatsapp.com",
+      "viber": "viber.com",
+      "instagram": "instagram.com",
+      "vk": "vk.com",
+      "facebook": "facebook.com",
+      "youtube": "youtube.com",
+      "odnoklassniki": "ok.ru",
+      "dzen": "dzen.ru",
+      "tiktok": "tiktok.com",
+      "linkedin": "linkedin.com"
+    }
+  },
+
+  "company": {
+    "name": "Название компании",
+    "desc": "Описание компании",
+    "logoUrl": "/logo.png",
+    "phone": "+7 (000) 000-00-00",
+    "website": "link.ru",
+    "address": "Москва, улица Арбат, 50",
+    "email": "company@email.ru",
+    "foundingDate": "20.02.1995",
+    "clients": ["Клиент 1", "Клиент 2","Клиент 3","Клиент 4","Клиент 5"],
+    "fax": "(123)-456-7890",
+    "socials": {
+      "telegram": "telegram.org",
+      "whatsapp": "whatsapp.com",
+      "viber": "viber.com",
+      "instagram": "instagram.com",
+      "vk": "vk.com",
+      "facebook": "facebook.com",
+      "youtube": "youtube.com",
+      "odnoklassniki": "ok.ru",
+      "dzen": "dzen.ru",
+      "tiktok": "tiktok.com",
+      "linkedin": "linkedin.com"
+    }
+  }
+}

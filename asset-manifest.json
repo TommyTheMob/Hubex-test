@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.js": "/Hubex-test/static/js/main.51d54840.js",
+    "static/media/AbhayaLibre-ExtraBold.ttf": "/Hubex-test/static/media/AbhayaLibre-ExtraBold.9317e428ef78470c7b42.ttf",
+    "static/media/TT Firs Neue Bold.ttf": "/Hubex-test/static/media/TT Firs Neue Bold.5ba714a312af33b4d0bc.ttf",
+    "static/media/TT Firs Neue Regular.ttf": "/Hubex-test/static/media/TT Firs Neue Regular.5d2cad8e332e98e905e5.ttf",
+    "static/media/TT Firs Neue Medium.ttf": "/Hubex-test/static/media/TT Firs Neue Medium.181a3a2099872fa4b253.ttf",
+    "static/media/link.svg": "/Hubex-test/static/media/link.2ff304966d46f64aa897268b5664e90d.svg",
+    "static/media/viber.svg": "/Hubex-test/static/media/viber.c654443c3efd558254ea8dd47b0236f9.svg",
+    "static/media/whatsapp.svg": "/Hubex-test/static/media/whatsapp.bbb47c97aed423d7334fbed0dc9a36cb.svg",
+    "static/media/ok.svg": "/Hubex-test/static/media/ok.951924d247af1ff89e120bdaf4aa8bb8.svg",
+    "static/media/dzen.svg": "/Hubex-test/static/media/dzen.8578150d5323232455cb865afd048507.svg",
+    "static/media/phone.svg": "/Hubex-test/static/media/phone.5258a327e8d166c6bd6b8a271aadd7e8.svg",
+    "static/media/download.svg": "/Hubex-test/static/media/download.e6b2998853c8b831ef82fd293080ec4c.svg",
+    "static/media/person.svg": "/Hubex-test/static/media/person.a3fbdd29c2c686c71bcc0526781446ee.svg",
+    "static/media/instagram.svg": "/Hubex-test/static/media/instagram.81acf993bea7a38a4a2bd5b1bcaa6c1c.svg",
+    "static/media/linkedin.svg": "/Hubex-test/static/media/linkedin.f67624d55b0e12eb3a65c9db97c24e21.svg",
+    "static/media/tiktok.svg": "/Hubex-test/static/media/tiktok.092d3b58101f9b9f0d2140f222924cd6.svg",
+    "static/media/facebook.svg": "/Hubex-test/static/media/facebook.6be81be5a9d99d6727232298e745735a.svg",
+    "static/media/calendar.svg": "/Hubex-test/static/media/calendar.084ee912fbec4e6bccb05f6b809361a8.svg",
+    "static/media/vk.svg": "/Hubex-test/static/media/vk.c63af7750b792b0bae6967aefbae6d6e.svg",
+    "static/media/telegram.svg": "/Hubex-test/static/media/telegram.c53c151ddbe0f8c539fcc90130a8f2e5.svg",
+    "static/media/youtube.svg": "/Hubex-test/static/media/youtube.62d37d0d33aa3bdd47e773e80b8aaabb.svg",
+    "static/media/fax.svg": "/Hubex-test/static/media/fax.2bb62c0db4edec864ab7bee4b98a3f0b.svg",
+    "static/media/cell-phone.svg": "/Hubex-test/static/media/cell-phone.9f70dc1494044baa0b94dd70b141ef39.svg",
+    "static/media/call.svg": "/Hubex-test/static/media/call.a835cbdf6727e449c4fe63981a21c536.svg",
+    "static/media/mail.svg": "/Hubex-test/static/media/mail.ab08549e49481a4a0bb3f5cd7d03656d.svg",
+    "static/media/location.svg": "/Hubex-test/static/media/location.f7ad8a318e79fde2cebbed746dc40c32.svg",
+    "index.html": "/Hubex-test/index.html",
+    "static/media/arrow.svg": "/Hubex-test/static/media/arrow.210d31d5f00ef90e1c68d890a41d429e.svg",
+    "main.51d54840.js.map": "/Hubex-test/static/js/main.51d54840.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.51d54840.js"
+  ]
+}
