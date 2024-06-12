@@ -3,7 +3,7 @@
     "name": "Иванов Иван Петрович",
     "organization": "Компания",
     "position": "Директор",
-    "photoUrl": "/employee.jpeg",
+    "photoUrl": "https://tommythemob.github.io/Hubex-test/employee.jpeg",
     "cellPhone": "+7 (000) 000-00-00",
     "phone": "+7 (000) 000-00-00",
     "secondPhone": "+7 (000) 000-00-00",
@@ -30,7 +30,7 @@
   "company": {
     "name": "Название компании",
     "desc": "Описание компании",
-    "logoUrl": "/logo.png",
+    "logoUrl": "https://tommythemob.github.io/Hubex-test/logo.png",
     "phone": "+7 (000) 000-00-00",
     "website": "link.ru",
     "address": "Москва, улица Арбат, 50",

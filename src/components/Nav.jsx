@@ -38,11 +38,11 @@ const Nav = () => {
   const navigate = useNavigate()
 
   const onEmployeeBtnClick = () => {
-    if (pathname.includes('company')) navigate('/')
+    if (pathname.includes('company')) navigate('Hubex-test/')
   }
 
   const onCompanyBtnClick = () => {
-    if (!pathname.includes('company')) navigate('/company')
+    if (!pathname.includes('company')) navigate('Hubex-test/company')
   }
 
   return (

@@ -53,6 +53,7 @@ const Btn = styled.button`
   border-radius: 8px;
   transform: translateY(0);
   transition: transform .3s ease;
+  cursor: pointer;
 
   &:hover {
     transform: translateY(-3px);

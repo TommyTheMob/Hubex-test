@@ -64,8 +64,8 @@ const App = () => {
           <Nav />
           <Frame>
             <Routes>
-              <Route path={'/'} element={<Employee />} />
-              <Route path={'/company'} element={<Company />} />
+              <Route path={'Hubex-test/'} element={<Employee />} />
+              <Route path={'Hubex-test/company'} element={<Company />} />
             </Routes>
           </Frame>
         </ContentWrapper>
