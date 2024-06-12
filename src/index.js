@@ -1,17 +1,53 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
-import reportWebVitals from './reportWebVitals';
+import {createGlobalStyle} from 'styled-components';
+import {BrowserRouter as Router} from "react-router-dom";
+
+import './fonts/TT Firs Neue/TT Firs Neue Regular.ttf'
+import './fonts/TT Firs Neue/TT Firs Neue Medium.ttf'
+import './fonts/TT Firs Neue/TT Firs Neue Bold.ttf'
+import './fonts/Abhaya Libre/AbhayaLibre-ExtraBold.ttf'
+
+const Global = createGlobalStyle`
+  @font-face {
+    font-family: 'TT Firs Neue Regular';
+    src: local('TT Firs Neue Regular'), url("./fonts/TT Firs Neue/TT Firs Neue Regular.ttf") format("ttf");
+  }
+  
+  @font-face {
+    font-family: 'TT Firs Neue Medium';
+    src: local('TT Firs Neue Medium'), url("./fonts/TT Firs Neue/TT Firs Neue Medium.ttf") format("ttf");
+  }
+
+  @font-face {
+    font-family: 'TT Firs Neue Bold';
+    src: local('TT Firs Neue Bold'), url("./fonts/TT Firs Neue/TT Firs Neue Bold.ttf") format("ttf");
+  }
+
+  @font-face {
+    font-family: 'Abhaya Libre Extra Bold';
+    src: local('Abhaya Libre Extra Bold'), url("./fonts/Abhaya Libre/AbhayaLibre-ExtraBold.ttf") format("ttf");
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'TT Firs Neue Regular', sans-serif;
+    font-size: 14px;
+    color: #060606;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+`
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <Router>
+    <Global />
     <App />
-  </React.StrictMode>
+  </Router>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
