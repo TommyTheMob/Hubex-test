@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Hubex-test/static/js/main.51d54840.js",
+    "main.js": "/Hubex-test/static/js/main.c8607d7d.js",
     "static/media/AbhayaLibre-ExtraBold.ttf": "/Hubex-test/static/media/AbhayaLibre-ExtraBold.9317e428ef78470c7b42.ttf",
     "static/media/TT Firs Neue Bold.ttf": "/Hubex-test/static/media/TT Firs Neue Bold.5ba714a312af33b4d0bc.ttf",
     "static/media/TT Firs Neue Regular.ttf": "/Hubex-test/static/media/TT Firs Neue Regular.5d2cad8e332e98e905e5.ttf",
@@ -28,9 +28,9 @@
     "static/media/location.svg": "/Hubex-test/static/media/location.f7ad8a318e79fde2cebbed746dc40c32.svg",
     "index.html": "/Hubex-test/index.html",
     "static/media/arrow.svg": "/Hubex-test/static/media/arrow.210d31d5f00ef90e1c68d890a41d429e.svg",
-    "main.51d54840.js.map": "/Hubex-test/static/js/main.51d54840.js.map"
+    "main.c8607d7d.js.map": "/Hubex-test/static/js/main.c8607d7d.js.map"
   },
   "entrypoints": [
-    "static/js/main.51d54840.js"
+    "static/js/main.c8607d7d.js"
   ]
 }
